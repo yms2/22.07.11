@@ -1,0 +1,6 @@
+ul{ width: 100%;
+    display: flex;
+    flex-direction: row;}
+ul > li{width: 20%;}
+ul a{display: block; font-size: 18px;
+        text-align: center; line-height: 20px;}
